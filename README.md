@@ -1,4 +1,4 @@
-Project: Assignment
+Project: Machine Learning Predictive Modeling
 
 Description: This project involves developing a machine learning model using data stored in AWS S3 and deploying the model as a REST API.
 
